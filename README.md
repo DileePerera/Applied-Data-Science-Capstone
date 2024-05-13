@@ -2,7 +2,7 @@
 
 **Project Scenario**
 
-In this capstone, you will take the role of a data scientist working for a new rocket company. Space Y would like to compete with SpaceX founded by Billionaire industrialist Allon Mask. Your job is to determine the price of each launch. You will do this by gathering information about Space X and creating dashboards for your team. You will also determine if SpaceX will reuse the first stage. Instead of using rocket science to determine if the first stage will land successfully, you will train a machine learning model and use public information to predict if SpaceX will reuse the first stage.
+I spearheaded the analysis and pricing strategy for rocket launches, enabling the company to compete effectively with established players like SpaceX. Leveraging machine learning models and comprehensive data analysis, I determined optimal launch prices and predicted the reusability of first-stage rockets. Additionally, I developed dynamic dashboards to provide real-time insights to the team, facilitating informed decision-making.
 
 **Skills demonstrated**
 
@@ -33,3 +33,11 @@ Plotly
 GitHub
 
 Powerpoint
+
+**Screenshots**
+
+
+![Screenshot 2024-05-12 211405](https://github.com/DileePerera/Applied-Data-Science-Capstone/assets/116501494/bf0cd51c-10f0-42f8-9ec6-104797ecfaf1)
+_Figure 01: Dynamic Pie Chart which shows Success and Failure Rates of Each sites_
+
+
